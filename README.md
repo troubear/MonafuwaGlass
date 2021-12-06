@@ -70,7 +70,7 @@ Projectウィンドウでテクスチャを右クリック→`QuiltTools`→`選
 
 ### Step 6.
 
-`Scenes/Demo.unity`を開きます。
+`Assets/Scenes/Demo.unity`を開きます。
 
 ### Step 7.
 
